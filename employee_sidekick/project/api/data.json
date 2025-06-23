@@ -1,0 +1,95 @@
+{
+  "policies": [
+    {
+      "id": 1,
+      "title": "Remote Work Policy",
+      "content": "Employees may work remotely up to 3 days per week with manager approval. Remote work arrangements must be documented and reviewed quarterly. All employees must be available during core hours (10am-3pm) and maintain productivity expectations."
+    },
+    {
+      "id": 2,
+      "title": "Vacation Policy",
+      "content": "Full-time employees accrue 20 days of annual leave per year. Leave requests must be submitted at least 2 weeks in advance for periods exceeding 3 days. Unused leave can be carried over with a maximum of 5 days per year."
+    },
+    {
+      "id": 3,
+      "title": "Sick Leave Policy",
+      "content": "Employees receive 10 sick days per year. Doctor's note required for absences exceeding 3 consecutive days. Unused sick leave does not carry over to the following year."
+    },
+    {
+      "id": 4,
+      "title": "Workplace Conduct",
+      "content": "All employees must maintain professional conduct in the workplace. Harassment of any kind is not tolerated. Report any misconduct to HR immediately. Violations may result in disciplinary action up to and including termination."
+    },
+    {
+      "id": 5,
+      "title": "Health and Safety Guidelines",
+      "content": "Employees must follow all safety protocols. Report unsafe conditions immediately. First aid kits are located on each floor. Emergency evacuation plans are posted near all exits. Annual safety training is mandatory for all employees."
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Product Manager",
+      "email": "john.doe@company.com",
+      "department": "Product",
+      "manager": "Sarah Johnson",
+      "hireDate": "2022-05-15",
+      "vacationDays": 15,
+      "sickDays": 5,
+      "nextReview": "2025-06-15"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "title": "Employee Handbook",
+      "category": "Policies",
+      "description": "Comprehensive guide to company policies and procedures",
+      "fileType": "PDF",
+      "fileSize": "2.4 MB",
+      "url": "/documents/handbook.pdf",
+      "dateAdded": "2025-01-15"
+    },
+    {
+      "id": 2,
+      "title": "Benefits Guide",
+      "category": "Benefits",
+      "description": "Details on health, retirement, and other employee benefits",
+      "fileType": "PDF",
+      "fileSize": "3.8 MB",
+      "url": "/documents/benefits.pdf",
+      "dateAdded": "2025-02-10"
+    },
+    {
+      "id": 3,
+      "title": "Performance Review Template",
+      "category": "Performance",
+      "description": "Form used for quarterly and annual performance evaluations",
+      "fileType": "DOC",
+      "fileSize": "1.2 MB",
+      "url": "/documents/review.doc",
+      "dateAdded": "2025-03-05"
+    },
+    {
+      "id": 4,
+      "title": "Vacation Request Form",
+      "category": "Time Off",
+      "description": "Form to request vacation time",
+      "fileType": "PDF",
+      "fileSize": "0.5 MB",
+      "url": "/documents/vacation.pdf",
+      "dateAdded": "2025-04-20"
+    },
+    {
+      "id": 5,
+      "title": "Remote Work Agreement",
+      "category": "Policies",
+      "description": "Agreement for employees working remotely",
+      "fileType": "PDF",
+      "fileSize": "0.8 MB",
+      "url": "/documents/remote.pdf",
+      "dateAdded": "2025-05-12"
+    }
+  ]
+}
